@@ -1,0 +1,18 @@
+.MainContainer{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+ li{
+    display: inline-block;
+    margin: 15px;
+    font-size: 25px;
+    font-weight: bold;
+   
+ }
+ .image{
+    width: 1000px;
+     
+ }
